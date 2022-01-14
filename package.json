@@ -1,0 +1,14 @@
+{
+  "name": "electron-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/e7217/electron-app",
+  "author": "e7217 <e7217@naver.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ./main.js"
+  },
+  "devDependencies": {
+    "electron": "^16.0.7"
+  }
+}
